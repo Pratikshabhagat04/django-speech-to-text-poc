@@ -1,0 +1,8 @@
+body { background: #f5f7fb; color: #182230; }
+.app-nav { background: #172554; }
+.stat-card { background: #fff; border: 1px solid #e7eaf0; border-radius: 14px; padding: 20px; }
+.card { border-radius: 14px; }
+.transcript-box { min-height: 270px; padding: 20px; border: 1px solid #dce2ec; border-radius: 12px; background: #fbfcff; white-space: pre-wrap; line-height: 1.8; }
+.transcript-detail { white-space: pre-wrap; line-height: 1.9; }
+.preview { max-width: 260px; color: #596579; }
+.btn { border-radius: 9px; }
